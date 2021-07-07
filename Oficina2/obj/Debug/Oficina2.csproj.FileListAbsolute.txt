@@ -1,0 +1,7 @@
+C:\Users\Victor Santos\source\repos\Oficina2\obj\Debug\Oficina2.csproj.AssemblyReference.cache
+C:\Users\Victor Santos\source\repos\Oficina2\obj\Debug\Oficina2.csproj.CoreCompileInputs.cache
+C:\Users\Victor Santos\source\repos\Oficina2\bin\Debug\Oficina2.exe.config
+C:\Users\Victor Santos\source\repos\Oficina2\bin\Debug\Oficina2.exe
+C:\Users\Victor Santos\source\repos\Oficina2\bin\Debug\Oficina2.pdb
+C:\Users\Victor Santos\source\repos\Oficina2\obj\Debug\Oficina2.exe
+C:\Users\Victor Santos\source\repos\Oficina2\obj\Debug\Oficina2.pdb
